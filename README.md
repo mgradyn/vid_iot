@@ -38,5 +38,8 @@ The image when the LED is on (blink).
 We also include the video for better visualizing the blinking LED at `./figs/pre_task_video.mp4`
 
 https://raw.githubusercontent.com/mgradyn/vid_iot/121cd988ad27c681957c367304496ffc6dc41438/lab_1_task_2_video.mp4
-
-<video src="https://raw.githubusercontent.com/mgradyn/vid_iot/121cd988ad27c681957c367304496ffc6dc41438/lab_1_task_2_video.mp4" controls></video>
+<video controls width="640">
+  <source src="https://raw.githubusercontent.com/mgradyn/vid_iot/121cd988ad27c681957c367304496ffc6dc41438/lab_1_task_2_video.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download it
+  <a href="https://github.com/mgradyn/vid_iot/blob/121cd988ad27c681957c367304496ffc6dc41438/lab_1_task_2_video.mp4">here on GitHub</a>.
+</video>
